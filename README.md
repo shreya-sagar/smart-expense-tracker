@@ -1,4 +1,4 @@
-# 💸 Smart Expense Tracker (Multi-User SaaS)
+# 💸 Smart Expense Tracker (Multi-User SaaS) - IN PROGRESS
 
 A cloud-ready, containerized expense tracker built with Java, Spring Boot, PostgreSQL, and Redis. Designed to help users track incomes, expenses, budgets, and receive alerts with analytical reporting — all in a multi-user SaaS style.
 
