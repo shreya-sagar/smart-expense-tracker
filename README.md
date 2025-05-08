@@ -89,7 +89,9 @@ docker-compose up --build
 
 ## 📘 Documentation
 
-- Full documentation available at: [`docs/architecture.md`](docs/architecture.md)
+- Architecture : [`docs/architecture.md`](docs/architecture.md)
+- High-Level Design (HLD) : [`docs/HLD.md`](docs/HLD.md)
+- Low-Level Design (LLD) : [`docs/LLD.md`](docs/LLD.md)
 - Swagger UI: `http://localhost:8080/swagger-ui.html`
 
 ---
