@@ -1,4 +1,4 @@
-# 📐 Smart Expense Tracker — Architecture Documentation
+# 📐 Smart Expense Tracker — Architecture Documentation (Tentative)
 
 ## 🧩 Overview
 A multi-user SaaS backend system that enables users to manage personal finances: log transactions, set budgets, receive alerts, generate reports, and analyze trends. Built using Java Spring Boot with PostgreSQL and Redis, secured via JWT and Google OAuth2, and cloud-deployable using Docker.
