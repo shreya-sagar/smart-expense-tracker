@@ -1,4 +1,4 @@
-# 🏗 High-Level Design (HLD) — Smart Expense Tracker
+# 🏗 High-Level Design (HLD) — Smart Expense Tracker (Tentative)
 
 ## 🎯 Objective
 
