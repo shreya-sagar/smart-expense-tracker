@@ -1,4 +1,4 @@
-# 🧰 Low-Level Design (LLD) — Smart Expense Tracker
+# 🧰 Low-Level Design (LLD) — Smart Expense Tracker (Tentative)
 
 ## 📦 Project Structure (Maven-style)
 
