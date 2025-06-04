@@ -1,6 +1,21 @@
 # 💸 Smart Expense Tracker — IN PROGRESS 🚧
 
-A cloud-ready, containerized expense tracker built with Java, Spring Boot, PostgreSQL, and Redis. Designed to help users track incomes, expenses, budgets, and receive alerts with analytical reporting — all in a multi-user SaaS style.
+A cloud-ready, containerized expense tracker built with Java, Spring Boot, PostgreSQL, and Redis — designed for multi-user SaaS usage.
+
+> 🧭 **Mission:** A secure, scalable backend for managing personal finances — helping users track expenses, set budgets, and stay financially informed.
+
+---
+
+### 🎯 Project Goal: Smart Expense Tracker
+
+To build a **multi-user web application** where people can:
+
+- ✅ Securely log in (using email/password or Google)
+- 💸 Track their income and expenses
+- 🎯 Set budgets for spending categories (like food, rent, etc.)
+- 📈 See reports and graphs showing where their money goes
+- 🔔 Get alerts if they overspend or for weekly summaries
+- 🧠 Optionally, in the future, use smart suggestions (AI) to help them categorize and analyze spending
 
 ---
 
