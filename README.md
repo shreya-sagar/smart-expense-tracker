@@ -60,7 +60,7 @@ _This is a **draft version** of the Smart Expense Tracker project. It outlines t
 ### 🔧 Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/smart-expense-tracker.git
+git clone https://github.com/shreya-sagar/smart-expense-tracker.git
 cd smart-expense-tracker
 ./mvnw clean install
 docker-compose up --build
